@@ -6,9 +6,9 @@
 
 * `npm init`
 
-3. Install parcel bundler to the dev dependencies
+3. Install parcel to the dev dependencies and add alias
 
-* `npm i --save-dev parcel-bundler`
+* `npm i --save-dev parcel`
 
 4. Install preact
 
